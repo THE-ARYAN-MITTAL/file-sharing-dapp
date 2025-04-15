@@ -75,7 +75,7 @@ function App() {
       {}
       <header className="App-header hero-section">
         {}
-        <h1>Decentralized File Sharing</h1>
+        <h1>LNM D-Share</h1>
         <p className="hero-tagline">Experience the future of secure, beautiful sharing. Lightning fast. Ultra secure. Unbelievably gorgeous.</p>
         {!account ? (
           <button className="connect-wallet-btn" onClick={connectWallet}>
